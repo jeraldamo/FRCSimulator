@@ -1,0 +1,8 @@
+build/
+test/
+temp/
+
+*.pyc
+*.pyo
+*.o
+
